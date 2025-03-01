@@ -1,0 +1,120 @@
+﻿using Sun.ProductMonitor.UserControls;
+using Sun.ProductMonitor.ViewModels;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows;
+using System.Windows.Controls;
+using System.Windows.Data;
+using System.Windows.Documents;
+using System.Windows.Input;
+using System.Windows.Media;
+using System.Windows.Media.Imaging;
+using System.Windows.Navigation;
+using System.Windows.Shapes;
+using Sun.ProductMonitor.OPCommand;
+using System.Windows.Media.Animation;
+using Sun.ProductMonitor.Views;
+
+namespace Sun.ProductMonitor
+{
+    /// <summary>
+    /// Interaction logic for MainWindow.xaml
+    /// </summary>
+    public partial class MainWindow : Window
+    {
+        /// <summary>
+        /// 视图模型
+        /// </summary>
+        MainWindowVM mainWindowVM = new MainWindowVM();
+        public MainWindow()
+        {
+            InitializeComponent();
+            this.DataContext = mainWindowVM;
+        }
+
+        /// <summary>
+        /// 显示车间详情页
+        /// </summary>
+        private void ShowDetailUC()
+        {
+            WorkShopDetailUC workShopDetailUC = new WorkShopDetailUC(); 
+            mainWindowVM.MonitorUC = workShopDetailUC;
+            //从下而上卷轴动画
+            //位移 移动时间
+            ThicknessAnimation thicknessAnimation = new ThicknessAnimation(new Thickness(0,50,0,-50),new Thickness(0,0,0,0),new TimeSpan(0,0,0,0,400));   
+            //透明度
+            DoubleAnimation doubleAnimation = new DoubleAnimation(0,1,new TimeSpan(0,0,0,0,400));
+
+            Storyboard.SetTarget(thicknessAnimation,workShopDetailUC);
+            Storyboard.SetTarget(doubleAnimation,workShopDetailUC);
+
+            Storyboard.SetTargetProperty(thicknessAnimation, new PropertyPath("Margin"));
+            Storyboard.SetTargetProperty(doubleAnimation, new PropertyPath("Opacity"));
+
+            Storyboard storyboard = new Storyboard();
+            storyboard.Children.Add(thicknessAnimation);
+            storyboard.Children.Add(doubleAnimation);
+            storyboard.Begin();
+        }
+        
+        /// <summary>
+        /// 返回监控
+        /// </summary>
+        private void GoBackMonitor()
+        {
+            MonitorUC monitorUC = new MonitorUC();
+            mainWindowVM.MonitorUC = monitorUC;
+        }
+
+        /// <summary>
+        /// 展示详情页
+        /// </summary>
+        public Command ShowDetailCmm 
+        {
+            get 
+            {
+                return new Command(ShowDetailUC);
+            }
+        }
+
+        public Command GoBackCmm
+        {
+            get 
+            {
+                return new Command(GoBackMonitor);
+            }
+        }
+
+        private void BtnMin(object sender, RoutedEventArgs e)
+        {
+            this.WindowState = WindowState.Minimized;
+        }
+
+        private void BtnMax(object sender, RoutedEventArgs e)
+        {
+            this.WindowState = WindowState.Maximized;
+        }
+
+        private void BtnClose(object sender, RoutedEventArgs e)
+        {
+            Environment.Exit(0);
+        }
+
+        private void ShowSettingWin()
+        {
+            SettingsWin settingsWin = new SettingsWin() { Owner=this};
+            settingsWin.ShowDialog();
+        }
+
+        public Command ShowSettingCmm
+        {
+            get 
+            {
+                return new Command(ShowSettingWin);
+            }
+        }
+    }
+}

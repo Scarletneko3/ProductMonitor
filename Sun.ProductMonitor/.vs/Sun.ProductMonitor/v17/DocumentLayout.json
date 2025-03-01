@@ -1,0 +1,318 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\C#Workplace\\Sun.ProductMonitor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BA44A9-AA60-4D50-AD43-D468EFA2F207}|Sun.ProductMonitor\\Sun.ProductMonitor.csproj|h:\\c#workplace\\sun.productmonitor\\sun.productmonitor\\sun.productmonitor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E0BA44A9-AA60-4D50-AD43-D468EFA2F207}|Sun.ProductMonitor\\Sun.ProductMonitor.csproj|solutionrelative:sun.productmonitor\\sun.productmonitor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BA44A9-AA60-4D50-AD43-D468EFA2F207}|Sun.ProductMonitor\\Sun.ProductMonitor.csproj|h:\\c#workplace\\sun.productmonitor\\sun.productmonitor\\views\\settingspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E0BA44A9-AA60-4D50-AD43-D468EFA2F207}|Sun.ProductMonitor\\Sun.ProductMonitor.csproj|solutionrelative:sun.productmonitor\\views\\settingspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BA44A9-AA60-4D50-AD43-D468EFA2F207}|Sun.ProductMonitor\\Sun.ProductMonitor.csproj|h:\\c#workplace\\sun.productmonitor\\sun.productmonitor\\views\\settingspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BA44A9-AA60-4D50-AD43-D468EFA2F207}|Sun.ProductMonitor\\Sun.ProductMonitor.csproj|solutionrelative:sun.productmonitor\\views\\settingspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BA44A9-AA60-4D50-AD43-D468EFA2F207}|Sun.ProductMonitor\\Sun.ProductMonitor.csproj|h:\\c#workplace\\sun.productmonitor\\sun.productmonitor\\views\\settingswin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E0BA44A9-AA60-4D50-AD43-D468EFA2F207}|Sun.ProductMonitor\\Sun.ProductMonitor.csproj|solutionrelative:sun.productmonitor\\views\\settingswin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BA44A9-AA60-4D50-AD43-D468EFA2F207}|Sun.ProductMonitor\\Sun.ProductMonitor.csproj|h:\\c#workplace\\sun.productmonitor\\sun.productmonitor\\views\\settingswin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BA44A9-AA60-4D50-AD43-D468EFA2F207}|Sun.ProductMonitor\\Sun.ProductMonitor.csproj|solutionrelative:sun.productmonitor\\views\\settingswin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BA44A9-AA60-4D50-AD43-D468EFA2F207}|Sun.ProductMonitor\\Sun.ProductMonitor.csproj|h:\\c#workplace\\sun.productmonitor\\sun.productmonitor\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E0BA44A9-AA60-4D50-AD43-D468EFA2F207}|Sun.ProductMonitor\\Sun.ProductMonitor.csproj|solutionrelative:sun.productmonitor\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BA44A9-AA60-4D50-AD43-D468EFA2F207}|Sun.ProductMonitor\\Sun.ProductMonitor.csproj|h:\\c#workplace\\sun.productmonitor\\sun.productmonitor\\opcommand\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BA44A9-AA60-4D50-AD43-D468EFA2F207}|Sun.ProductMonitor\\Sun.ProductMonitor.csproj|solutionrelative:sun.productmonitor\\opcommand\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BA44A9-AA60-4D50-AD43-D468EFA2F207}|Sun.ProductMonitor\\Sun.ProductMonitor.csproj|h:\\c#workplace\\sun.productmonitor\\sun.productmonitor\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BA44A9-AA60-4D50-AD43-D468EFA2F207}|Sun.ProductMonitor\\Sun.ProductMonitor.csproj|solutionrelative:sun.productmonitor\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BA44A9-AA60-4D50-AD43-D468EFA2F207}|Sun.ProductMonitor\\Sun.ProductMonitor.csproj|h:\\c#workplace\\sun.productmonitor\\sun.productmonitor\\usercontrols\\monitoruc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E0BA44A9-AA60-4D50-AD43-D468EFA2F207}|Sun.ProductMonitor\\Sun.ProductMonitor.csproj|solutionrelative:sun.productmonitor\\usercontrols\\monitoruc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BA44A9-AA60-4D50-AD43-D468EFA2F207}|Sun.ProductMonitor\\Sun.ProductMonitor.csproj|h:\\c#workplace\\sun.productmonitor\\sun.productmonitor\\usercontrols\\workshopdetailuc.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BA44A9-AA60-4D50-AD43-D468EFA2F207}|Sun.ProductMonitor\\Sun.ProductMonitor.csproj|solutionrelative:sun.productmonitor\\usercontrols\\workshopdetailuc.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BA44A9-AA60-4D50-AD43-D468EFA2F207}|Sun.ProductMonitor\\Sun.ProductMonitor.csproj|h:\\c#workplace\\sun.productmonitor\\sun.productmonitor\\usercontrols\\workshopdetailuc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E0BA44A9-AA60-4D50-AD43-D468EFA2F207}|Sun.ProductMonitor\\Sun.ProductMonitor.csproj|solutionrelative:sun.productmonitor\\usercontrols\\workshopdetailuc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BA44A9-AA60-4D50-AD43-D468EFA2F207}|Sun.ProductMonitor\\Sun.ProductMonitor.csproj|h:\\c#workplace\\sun.productmonitor\\sun.productmonitor\\usercontrols\\monitoruc.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BA44A9-AA60-4D50-AD43-D468EFA2F207}|Sun.ProductMonitor\\Sun.ProductMonitor.csproj|solutionrelative:sun.productmonitor\\usercontrols\\monitoruc.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BA44A9-AA60-4D50-AD43-D468EFA2F207}|Sun.ProductMonitor\\Sun.ProductMonitor.csproj|h:\\c#workplace\\sun.productmonitor\\sun.productmonitor\\usercontrols\\ringuc.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BA44A9-AA60-4D50-AD43-D468EFA2F207}|Sun.ProductMonitor\\Sun.ProductMonitor.csproj|solutionrelative:sun.productmonitor\\usercontrols\\ringuc.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BA44A9-AA60-4D50-AD43-D468EFA2F207}|Sun.ProductMonitor\\Sun.ProductMonitor.csproj|h:\\c#workplace\\sun.productmonitor\\sun.productmonitor\\usercontrols\\raderuc.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BA44A9-AA60-4D50-AD43-D468EFA2F207}|Sun.ProductMonitor\\Sun.ProductMonitor.csproj|solutionrelative:sun.productmonitor\\usercontrols\\raderuc.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BA44A9-AA60-4D50-AD43-D468EFA2F207}|Sun.ProductMonitor\\Sun.ProductMonitor.csproj|h:\\c#workplace\\sun.productmonitor\\sun.productmonitor\\usercontrols\\ringuc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E0BA44A9-AA60-4D50-AD43-D468EFA2F207}|Sun.ProductMonitor\\Sun.ProductMonitor.csproj|solutionrelative:sun.productmonitor\\usercontrols\\ringuc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BA44A9-AA60-4D50-AD43-D468EFA2F207}|Sun.ProductMonitor\\Sun.ProductMonitor.csproj|h:\\c#workplace\\sun.productmonitor\\sun.productmonitor\\models\\machinemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BA44A9-AA60-4D50-AD43-D468EFA2F207}|Sun.ProductMonitor\\Sun.ProductMonitor.csproj|solutionrelative:sun.productmonitor\\models\\machinemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\asus\\AppData\\Local\\Temp\\.vsdbgsrc\\d292409fdfc69f97c4cee1222517bd184278f5f6b412ac606560e163094811d3\\XamlReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BA44A9-AA60-4D50-AD43-D468EFA2F207}|Sun.ProductMonitor\\Sun.ProductMonitor.csproj|h:\\c#workplace\\sun.productmonitor\\sun.productmonitor\\viewmodels\\mainwindowvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BA44A9-AA60-4D50-AD43-D468EFA2F207}|Sun.ProductMonitor\\Sun.ProductMonitor.csproj|solutionrelative:sun.productmonitor\\viewmodels\\mainwindowvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "H:\\C#Workplace\\Sun.ProductMonitor\\Sun.ProductMonitor\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Sun.ProductMonitor\\MainWindow.xaml",
+              "ToolTip": "H:\\C#Workplace\\Sun.ProductMonitor\\Sun.ProductMonitor\\MainWindow.xaml",
+              "RelativeToolTip": "Sun.ProductMonitor\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-12T02:39:28.853Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SettingsWin.xaml.cs",
+              "DocumentMoniker": "H:\\C#Workplace\\Sun.ProductMonitor\\Sun.ProductMonitor\\Views\\SettingsWin.xaml.cs",
+              "RelativeDocumentMoniker": "Sun.ProductMonitor\\Views\\SettingsWin.xaml.cs",
+              "ToolTip": "H:\\C#Workplace\\Sun.ProductMonitor\\Sun.ProductMonitor\\Views\\SettingsWin.xaml.cs",
+              "RelativeToolTip": "Sun.ProductMonitor\\Views\\SettingsWin.xaml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA2wBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T13:32:07.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sun.ProductMonitor.csproj",
+              "DocumentMoniker": "H:\\C#Workplace\\Sun.ProductMonitor\\Sun.ProductMonitor\\Sun.ProductMonitor.csproj",
+              "RelativeDocumentMoniker": "Sun.ProductMonitor\\Sun.ProductMonitor.csproj",
+              "ToolTip": "H:\\C#Workplace\\Sun.ProductMonitor\\Sun.ProductMonitor\\Sun.ProductMonitor.csproj",
+              "RelativeToolTip": "Sun.ProductMonitor\\Sun.ProductMonitor.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-12T13:19:53.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SettingsPage.xaml",
+              "DocumentMoniker": "H:\\C#Workplace\\Sun.ProductMonitor\\Sun.ProductMonitor\\Views\\SettingsPage.xaml",
+              "RelativeDocumentMoniker": "Sun.ProductMonitor\\Views\\SettingsPage.xaml",
+              "ToolTip": "H:\\C#Workplace\\Sun.ProductMonitor\\Sun.ProductMonitor\\Views\\SettingsPage.xaml",
+              "RelativeToolTip": "Sun.ProductMonitor\\Views\\SettingsPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-13T13:59:11.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SettingsWin.xaml",
+              "DocumentMoniker": "H:\\C#Workplace\\Sun.ProductMonitor\\Sun.ProductMonitor\\Views\\SettingsWin.xaml",
+              "RelativeDocumentMoniker": "Sun.ProductMonitor\\Views\\SettingsWin.xaml",
+              "ToolTip": "H:\\C#Workplace\\Sun.ProductMonitor\\Sun.ProductMonitor\\Views\\SettingsWin.xaml",
+              "RelativeToolTip": "Sun.ProductMonitor\\Views\\SettingsWin.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-13T11:30:31.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MonitorUC.xaml",
+              "DocumentMoniker": "H:\\C#Workplace\\Sun.ProductMonitor\\Sun.ProductMonitor\\UserControls\\MonitorUC.xaml",
+              "RelativeDocumentMoniker": "Sun.ProductMonitor\\UserControls\\MonitorUC.xaml",
+              "ToolTip": "H:\\C#Workplace\\Sun.ProductMonitor\\Sun.ProductMonitor\\UserControls\\MonitorUC.xaml",
+              "RelativeToolTip": "Sun.ProductMonitor\\UserControls\\MonitorUC.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-13T13:03:35.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SettingsPage.xaml.cs",
+              "DocumentMoniker": "H:\\C#Workplace\\Sun.ProductMonitor\\Sun.ProductMonitor\\Views\\SettingsPage.xaml.cs",
+              "RelativeDocumentMoniker": "Sun.ProductMonitor\\Views\\SettingsPage.xaml.cs",
+              "ToolTip": "H:\\C#Workplace\\Sun.ProductMonitor\\Sun.ProductMonitor\\Views\\SettingsPage.xaml.cs",
+              "RelativeToolTip": "Sun.ProductMonitor\\Views\\SettingsPage.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA6wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T15:09:51.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Command.cs",
+              "DocumentMoniker": "H:\\C#Workplace\\Sun.ProductMonitor\\Sun.ProductMonitor\\OPCommand\\Command.cs",
+              "RelativeDocumentMoniker": "Sun.ProductMonitor\\OPCommand\\Command.cs",
+              "ToolTip": "H:\\C#Workplace\\Sun.ProductMonitor\\Sun.ProductMonitor\\OPCommand\\Command.cs",
+              "RelativeToolTip": "Sun.ProductMonitor\\OPCommand\\Command.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T07:40:44.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "H:\\C#Workplace\\Sun.ProductMonitor\\Sun.ProductMonitor\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Sun.ProductMonitor\\MainWindow.xaml.cs",
+              "ToolTip": "H:\\C#Workplace\\Sun.ProductMonitor\\Sun.ProductMonitor\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Sun.ProductMonitor\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAuwGwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T10:43:28.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RaderUC.xaml.cs",
+              "DocumentMoniker": "H:\\C#Workplace\\Sun.ProductMonitor\\Sun.ProductMonitor\\UserControls\\RaderUC.xaml.cs",
+              "RelativeDocumentMoniker": "Sun.ProductMonitor\\UserControls\\RaderUC.xaml.cs",
+              "ToolTip": "H:\\C#Workplace\\Sun.ProductMonitor\\Sun.ProductMonitor\\UserControls\\RaderUC.xaml.cs",
+              "RelativeToolTip": "Sun.ProductMonitor\\UserControls\\RaderUC.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T11:06:51.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WorkShopDetailUC.xaml.cs",
+              "DocumentMoniker": "H:\\C#Workplace\\Sun.ProductMonitor\\Sun.ProductMonitor\\UserControls\\WorkShopDetailUC.xaml.cs",
+              "RelativeDocumentMoniker": "Sun.ProductMonitor\\UserControls\\WorkShopDetailUC.xaml.cs",
+              "ToolTip": "H:\\C#Workplace\\Sun.ProductMonitor\\Sun.ProductMonitor\\UserControls\\WorkShopDetailUC.xaml.cs",
+              "RelativeToolTip": "Sun.ProductMonitor\\UserControls\\WorkShopDetailUC.xaml.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAA+wDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T11:05:41.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MonitorUC.xaml.cs",
+              "DocumentMoniker": "H:\\C#Workplace\\Sun.ProductMonitor\\Sun.ProductMonitor\\UserControls\\MonitorUC.xaml.cs",
+              "RelativeDocumentMoniker": "Sun.ProductMonitor\\UserControls\\MonitorUC.xaml.cs",
+              "ToolTip": "H:\\C#Workplace\\Sun.ProductMonitor\\Sun.ProductMonitor\\UserControls\\MonitorUC.xaml.cs",
+              "RelativeToolTip": "Sun.ProductMonitor\\UserControls\\MonitorUC.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T11:06:56.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MachineModel.cs",
+              "DocumentMoniker": "H:\\C#Workplace\\Sun.ProductMonitor\\Sun.ProductMonitor\\Models\\MachineModel.cs",
+              "RelativeDocumentMoniker": "Sun.ProductMonitor\\Models\\MachineModel.cs",
+              "ToolTip": "H:\\C#Workplace\\Sun.ProductMonitor\\Sun.ProductMonitor\\Models\\MachineModel.cs",
+              "RelativeToolTip": "Sun.ProductMonitor\\Models\\MachineModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T07:19:56.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WorkShopDetailUC.xaml",
+              "DocumentMoniker": "H:\\C#Workplace\\Sun.ProductMonitor\\Sun.ProductMonitor\\UserControls\\WorkShopDetailUC.xaml",
+              "RelativeDocumentMoniker": "Sun.ProductMonitor\\UserControls\\WorkShopDetailUC.xaml",
+              "ToolTip": "H:\\C#Workplace\\Sun.ProductMonitor\\Sun.ProductMonitor\\UserControls\\WorkShopDetailUC.xaml",
+              "RelativeToolTip": "Sun.ProductMonitor\\UserControls\\WorkShopDetailUC.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-12T13:18:15.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "XamlReader.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\AppData\\Local\\Temp\\.vsdbgsrc\\d292409fdfc69f97c4cee1222517bd184278f5f6b412ac606560e163094811d3\\XamlReader.cs",
+              "ToolTip": "C:\\Users\\asus\\AppData\\Local\\Temp\\.vsdbgsrc\\d292409fdfc69f97c4cee1222517bd184278f5f6b412ac606560e163094811d3\\XamlReader.cs [\u8AAD\u307F\u53D6\u308A\u5C02\u7528]",
+              "ViewState": "AgIAAPUBAAAAAAAAAAAqwP4BAAACAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T09:01:34.648Z",
+              "EditorCaption": " [\u8AAD\u307F\u53D6\u308A\u5C02\u7528]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RingUC.xaml.cs",
+              "DocumentMoniker": "H:\\C#Workplace\\Sun.ProductMonitor\\Sun.ProductMonitor\\UserControls\\RingUC.xaml.cs",
+              "RelativeDocumentMoniker": "Sun.ProductMonitor\\UserControls\\RingUC.xaml.cs",
+              "ToolTip": "H:\\C#Workplace\\Sun.ProductMonitor\\Sun.ProductMonitor\\UserControls\\RingUC.xaml.cs",
+              "RelativeToolTip": "Sun.ProductMonitor\\UserControls\\RingUC.xaml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowD4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T03:45:46.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RingUC.xaml",
+              "DocumentMoniker": "H:\\C#Workplace\\Sun.ProductMonitor\\Sun.ProductMonitor\\UserControls\\RingUC.xaml",
+              "RelativeDocumentMoniker": "Sun.ProductMonitor\\UserControls\\RingUC.xaml",
+              "ToolTip": "H:\\C#Workplace\\Sun.ProductMonitor\\Sun.ProductMonitor\\UserControls\\RingUC.xaml",
+              "RelativeToolTip": "Sun.ProductMonitor\\UserControls\\RingUC.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-13T03:45:33.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MainWindowVM.cs",
+              "DocumentMoniker": "H:\\C#Workplace\\Sun.ProductMonitor\\Sun.ProductMonitor\\ViewModels\\MainWindowVM.cs",
+              "RelativeDocumentMoniker": "Sun.ProductMonitor\\ViewModels\\MainWindowVM.cs",
+              "ToolTip": "H:\\C#Workplace\\Sun.ProductMonitor\\Sun.ProductMonitor\\ViewModels\\MainWindowVM.cs",
+              "RelativeToolTip": "Sun.ProductMonitor\\ViewModels\\MainWindowVM.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAcwE8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T09:59:22.424Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

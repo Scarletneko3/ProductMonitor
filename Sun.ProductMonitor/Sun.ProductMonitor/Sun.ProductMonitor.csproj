@@ -1,0 +1,36 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Resource\Fonts\digitaldisplayregular-odeo.ttf" />
+    <None Remove="Resource\Fonts\FangYuanChinese.ttf" />
+    <None Remove="Resource\Fonts\iconfont.ttf" />
+    <None Remove="Resource\Fonts\LingDongEnglish.ttf" />
+    <None Remove="Resource\Images\7-1F610101F3.jpg" />
+    <None Remove="Resource\Images\Logo.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Glimpse.AspNet" Version="1.9.2" />
+    <PackageReference Include="LiveCharts.Wpf" Version="0.9.7" />
+    <PackageReference Include="NModbus4" Version="2.1.0" />
+    <PackageReference Include="System.IO.Ports" Version="9.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Resource\Fonts\digitaldisplayregular-odeo.ttf" />
+    <Resource Include="Resource\Fonts\FangYuanChinese.ttf" />
+    <Resource Include="Resource\Fonts\iconfont.ttf" />
+    <Resource Include="Resource\Fonts\LingDongEnglish.ttf" />
+    <Resource Include="Resource\Images\7-1F610101F3.jpg" />
+    <Resource Include="Resource\Images\Logo.jpg" />
+  </ItemGroup>
+
+</Project>
